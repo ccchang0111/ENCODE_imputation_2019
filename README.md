@@ -1,4 +1,4 @@
-This is a reproduciple codes for 2019 ENCODE Imputation Challenge
+Reproducible codes for 2019 ENCODE Imputation Challenge
 
 https://www.synapse.org/#!Synapse:syn17083203/wiki/587192
 
