@@ -1,4 +1,4 @@
-Codes for reproducing the submission for Team Lavawizard in [2019 ENCODE Imputation Challenge](https://www.synapse.org/#!Synapse:syn17083203/wiki/587192)
+Codes for reproducing the submission for **Team Lavawizard** in [2019 ENCODE Imputation Challenge](https://www.synapse.org/#!Synapse:syn17083203/wiki/587192)
 
 ## How to train the model & generate predictions
 
