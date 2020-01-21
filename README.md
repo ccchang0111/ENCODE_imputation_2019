@@ -1,7 +1,7 @@
 Codes for reproducing the submission for **Team Lavawizard** in [2019 ENCODE Imputation Challenge](https://www.synapse.org/#!Synapse:syn17083203/wiki/587192)
 
 ## Installation
-1. `https://github.com/ccchang0111/ENCODE_imputation_2019.git`
+1. `git clone https://github.com/ccchang0111/ENCODE_imputation_2019.git`
 2. ```conda env create -f env.yml```
 
 ## How to train the model & generate predictions
